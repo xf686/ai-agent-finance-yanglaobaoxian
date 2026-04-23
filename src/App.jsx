@@ -1,0 +1,1 @@
+export { default } from './PensionAI_v6'
